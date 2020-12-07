@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:ital@1&display=swap');
+h3{
+  font-family: 'Copperplate', 'Papyrus', fantasy;
+}
+
+li{
+font-family: 'Times New Roman', serif;
+font-size: 40px;
+font-weight:bold;
+}
